@@ -1,0 +1,5 @@
+{
+	"variants": {
+		"variant=auraore": { "model": "glitch_byte_auramod:auraore" }
+	}
+}

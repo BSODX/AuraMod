@@ -1,0 +1,1 @@
+{ "variants": { "age = 0": { "model": "glitch_byte_auramod:auramPlant_stage0" }, "age = 1": { "model": "glitch_byte_auramod:auramPlant_stage1" }, "age = 2": { "model": "glitch_byte_auramod:auramPlant_stage2" } } }

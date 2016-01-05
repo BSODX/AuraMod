@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "glitch_byte_auramod:blocks/auramPlant2"
+    }
+}
